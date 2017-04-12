@@ -1,3 +1,3 @@
 #Hello World
 
-* [./001-intro](Intro)
+* [Intro](./001-intro)
