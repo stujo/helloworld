@@ -34,3 +34,6 @@
 * It is versioned as it is updated
 * A given version of the source code is used to build a release of the application
 * Question: Do you have github account?
+
+## Next Steps?
+* [Intro to GitHub Pages](./002-github.md)
