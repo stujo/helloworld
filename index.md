@@ -1,4 +1,4 @@
 # Hello World
 
-* [Intro](./001-intro)
-* [GitHub](./002-github)
+* [Intro](./001-intro.md)
+* [GitHub](./002-github.md)
