@@ -33,3 +33,6 @@ We are going to use GitHub Pages to make and publish a webpage on the internet
 * Does it still work?
 * Question: Do you have any bugs?
 * Question: What would you like to change about your page?
+
+# Next Steps?
+* [Learn Some HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
