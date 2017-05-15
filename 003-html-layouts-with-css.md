@@ -4,15 +4,19 @@
 
 Often, most web pages on a given website share the same layout, this is called the layout template. 
 
+## Noticing Layouts
+
 * **Action Item:** Take a look at a few of your favourite sites and see if you can identify common elements from page to page. 
 
 Discuss your findings with your programming buddy. What did you notice? Often pages have a header and a footer, some kind of side bar or shared navigational elements. Many times the home page has some special treatment. 
+
+## Draw a Wire Frame
 
 * **Action Item:** Decide on a layout template for the page you want to make. 
 
 Draw your layout as a 'wire-frame' on a piece of paper. Label each element so you are clean on what each element will be called.
 
-# Choices, Choices
+## Choices, Choices
 
 We can write our own layout from scratch, use one that someone else has prepared or reach for a CSS framework to help us out. Common CSS Frameworks are:
 
@@ -23,3 +27,10 @@ We can write our own layout from scratch, use one that someone else has prepared
 Most Frameworks are based on a grid system, although flexbox based layouts are becoming more popular as browser support is more widespread
 
 Today we are going to try one of these CSS Frameworks
+
+## Bootstrap
+
+People like to rag on bootstrap, but for getting started it gives us a decent look with little knowledge or effort and it's a decent place to start out
+
+* **Action Item:** Find a bootstrap layout example and apply it to your page
+
